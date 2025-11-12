@@ -68,7 +68,6 @@ Once the student marks are updated in the sheet, the workflow automatically dete
 
 ```text
 Google Sheets → n8n Trigger → Function Node → Switch Node → Email Node
-
-<img width="1907" height="871" alt="certificate elgibility" src="https://github.com/user-attachments/assets/12e905cd-6120-4605-a85e-198c427f5949" />
+<img width="1907" height="871" alt="certificate elgibility" src="https://github.com/user-attachments/assets/1c79e86f-3690-43a5-877e-84054976f2c7" />
 
 
